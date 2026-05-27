@@ -130,32 +130,32 @@ Q where specified in the program
 
 Through these projects, the following concepts were explored:
 
-Real-time Computer Vision
-Webcam Frame Processing
-Face and Hand Detection
-Gesture Recognition Systems
-OpenCV Image Processing
-MediaPipe Landmark Tracking
-Mouse Automation using Python
-Human-Computer Interaction Systems
+- Real-time Computer Vision
+- Webcam Frame Processing
+- Face and Hand Detection
+- Gesture Recognition Systems
+- OpenCV Image Processing
+- MediaPipe Landmark Tracking
+- Mouse Automation using Python
+- Human-Computer Interaction Systems
 
 These projects also helped in understanding:
 
-Real-time webcam data handling
-Screen coordinate mapping
-Landmark-based gesture analysis
-Interactive system development
-Practical applications of Computer Vision
+- Real-time webcam data handling
+- Screen coordinate mapping
+- Landmark-based gesture analysis
+- Interactive system development
+- Practical applications of Computer Vision
 
 # Future Improvements
 
 Possible future upgrades include:
 
-Gesture-based volume control
-Multi-hand gesture support
-AI-based gesture classification
-Improved gesture accuracy
-Gesture-controlled applications and games
-Face recognition with identity tracking
-Gesture-based keyboard shortcuts
-Virtual drawing and presentation controls
+- Gesture-based volume control
+- Multi-hand gesture support
+- AI-based gesture classification
+- Improved gesture accuracy
+- Gesture-controlled applications and games
+- Face recognition with identity tracking
+- Gesture-based keyboard shortcuts
+- Virtual drawing and presentation controls
